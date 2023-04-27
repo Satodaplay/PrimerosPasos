@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Dia6\Dia6\bin\Debug\net6.0\Dia6.exe
+C:\Users\danie\source\repos\Dia6\Dia6\bin\Debug\net6.0\Dia6.deps.json
+C:\Users\danie\source\repos\Dia6\Dia6\bin\Debug\net6.0\Dia6.runtimeconfig.json
+C:\Users\danie\source\repos\Dia6\Dia6\bin\Debug\net6.0\Dia6.dll
+C:\Users\danie\source\repos\Dia6\Dia6\bin\Debug\net6.0\Dia6.pdb
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.AssemblyInfo.cs
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.dll
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\refint\Dia6.dll
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.pdb
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\Dia6.genruntimeconfig.cache
+C:\Users\danie\source\repos\Dia6\Dia6\obj\Debug\net6.0\ref\Dia6.dll
